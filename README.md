@@ -1,2 +1,3 @@
-# goconnect_client_app
+# GoConnect App
+
 GoConnect App Online Messaging
